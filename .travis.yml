@@ -9,4 +9,4 @@ deploy:
   provider: firebase
   token:
     secure: $FIREBASE_API_TOKEN
-  project: "dmytrodanylyk"
+  project: "jinqizh8"
