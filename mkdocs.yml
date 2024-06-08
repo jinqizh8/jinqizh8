@@ -1,12 +1,12 @@
 # Project information
-site_name: Dmytro Danylyk
+site_name: jinqizh8
 site_description: 'Personal Site'
-site_author: 'Dmytro Danylyk'
-site_url: 'https://dmytrodanylyk.com'
+site_author: 'jinqizh8'
+site_url: 'https://jinqizh8.com'
 
 # Repository
 repo_name: 'GitHub'
-repo_url: 'https://github.com/dmytrodanylyk/dmytrodanylyk'
+repo_url: 'https://github.com/jinqizh8/jinqizh8'
 
 # Copyright
 copyright: 'Copyright &copy; 2017 - 2018 Dmytro Danylyk'
@@ -19,11 +19,11 @@ site_favicon: 'images/favicon.ico'
 extra:
   social:
     - type: 'github'
-      link: 'https://github.com/dmytrodanylyk'
+      link: 'https://github.com/jinqizh8'
     - type: 'twitter'
-      link: 'https://twitter.com/dmytrodanylyk'
+      link: 'https://twitter.com/jinqizh8'
     - type: 'linkedin'
-      link: 'https://linkedin.com/in/dmytrodanylyk'
+      link: 'https://linkedin.com/in/jinqizh8'
 
 # Extensions
 markdown_extensions:
